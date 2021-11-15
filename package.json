@@ -1,0 +1,24 @@
+{
+  "name": "new-boot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/aky19981011/new-boot.git"
+  },
+  "author": "Ankit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aky19981011/new-boot/issues"
+  },
+  "homepage": "https://github.com/aky19981011/new-boot#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
